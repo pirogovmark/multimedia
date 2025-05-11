@@ -2,9 +2,9 @@
 
 ## Датасеты
 
-- Для классификации выбран следующий датасет https://www.kaggle.com/datasets/orvile/pmram-bangladeshi-brain-cancer-mri-dataset
-- Для Сегментации выбран следующий датасет https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset
-- Для детекции выбран следующий датасет https://www.kaggle.com/datasets/pkdarabi/cardetection
+- Для ЛР 6 выбран следующий датасет https://www.kaggle.com/datasets/orvile/pmram-bangladeshi-brain-cancer-mri-dataset
+- Для ЛР 7 выбран следующий датасет https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset
+- Для ЛР 8 выбран следующий датасет https://www.kaggle.com/datasets/pkdarabi/cardetection
 
 ## Подведение итогов
 
