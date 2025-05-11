@@ -1,7 +1,6 @@
-# Multimedia2
-Курс по технологиям мультимедиа, 8 семестр, МАИ
+# Студент группы М8О-407Б-21 Пирогов Марк Дмитриевич
 
-## Студент группы М8О-407Б-21 Пирогов Марк Дмитриевич
+## Датасеты
 
 - Для классификации выбран следующий датасет https://www.kaggle.com/datasets/orvile/pmram-bangladeshi-brain-cancer-mri-dataset
 - Для Сегментации выбран следующий датасет https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset
