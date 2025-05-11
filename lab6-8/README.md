@@ -1,11 +1,5 @@
 # Студент группы М8О-407Б-21 Пирогов Марк Дмитриевич
 
-## Датасеты
-
-- Для ЛР 6 выбран следующий датасет https://www.kaggle.com/datasets/orvile/pmram-bangladeshi-brain-cancer-mri-dataset
-- Для ЛР 7 выбран следующий датасет https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset
-- Для ЛР 8 выбран следующий датасет https://www.kaggle.com/datasets/pkdarabi/cardetection
-
 ## Подведение итогов
 
 - ЛР 6
