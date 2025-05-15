@@ -30,17 +30,27 @@
 <table>
     <tr>
         <th>Алгоритм</th>
-        <th>Baseline</th>
-        <th>Улучшенный Baseline</th>
+        <th>mAP50</th>
+        <th>mAP50-95</th>
     </tr>
     <tr>
         <td>YOLO</td>
-        <td>0.913</td>
-        <td>0.967</td>
+        <td>0.792</td>
+        <td>0.598</td>
     </tr>
     <tr>
-        <td>Моя реализация</td>
+        <th>YOLO улучшенный Baseline</th>
+        <td>0.952</td>
+        <td>0.721</td>
+    </tr>
+    <tr>
+        <th>Своя</th>
         <td>-</td>
-        <td>0.10</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Своя улучшенный Baseline</th>
+        <td>0.612</td>
+        <td>0.541</td>
     </tr>
 </table>
