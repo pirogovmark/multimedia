@@ -29,7 +29,7 @@
 
 <table>
     <tr>
-        <th>Алгоритм</th>
+        <th>Model</th>
         <th>mAP50</th>
         <th>mAP50-95</th>
     </tr>
