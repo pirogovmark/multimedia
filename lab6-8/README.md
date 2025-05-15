@@ -39,17 +39,17 @@
         <td>0.598</td>
     </tr>
     <tr>
-        <th>YOLO улучшенный Baseline</th>
+        <td>YOLO улучшенный Baseline</th>
         <td>0.952</td>
         <td>0.721</td>
     </tr>
     <tr>
-        <th>Своя</th>
+        <td>Своя</th>
         <td>-</td>
         <td>-</td>
     </tr>
     <tr>
-        <th>Своя улучшенный Baseline</th>
+        <td>Своя улучшенный Baseline</th>
         <td>0.612</td>
         <td>0.541</td>
     </tr>
