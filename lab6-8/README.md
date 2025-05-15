@@ -7,8 +7,8 @@
 <table>
     <tr>
         <th>Алгоритм</th>
-        <th>Бейзлайн</th>
-        <th>Улучшенный бейзлайн</th>
+        <th>Baseline</th>
+        <th>Улучшенный baseline</th>
     </tr>
     <tr>
         <td>FPN</td>
@@ -32,8 +32,8 @@
 <table>
     <tr>
         <th>Алгоритм</th>
-        <th>Бейзлайн</th>
-        <th>Улучшенный бейзлайн</th>
+        <th>Baseline</th>
+        <th>Улучшенный Baseline</th>
     </tr>
     <tr>
         <td>YOLO</td>
